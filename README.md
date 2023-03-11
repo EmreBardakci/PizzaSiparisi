@@ -1,0 +1,1 @@
+# PizzaSiparisi Pizza ve sosların fiyat ve tanımlarını belirtip kullanıcının istediği pizza ve sosu seçip sonrasında kullanıcı bilgilerini girip sipariş ettiği ve kullanıcının bilgilerinin kayıt edildiği bir pizza sipariş menüsü
